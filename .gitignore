@@ -1,0 +1,8 @@
+__pycache__/
+build/
+dist/
+calculator.py
+dance.py
+notepad.py
+passnew.spec
+password.csv
