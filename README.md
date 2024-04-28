@@ -1,0 +1,1 @@
+You will use this program to get random and strong password. you can generate password with your necessary length and save password with app name in csv file so you can access any time these passwords with app name.
